@@ -111,7 +111,7 @@ Publish the website in the LocalHost.
     </div>
 
     <footer class="bg-dark text-white text-center py-3">
-        <p>&copy; Developed by Your Name</p>
+        <p>&copy; Developed by aaron alex</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -122,11 +122,13 @@ Publish the website in the LocalHost.
 
 
 
+
 ```
 
 
 ## OUTPUT:
-![Screenshot (88)](https://github.com/user-attachments/assets/e9d5b011-2cdb-4515-9824-fe0bce5fbd9c)
+![Screenshot (89)](https://github.com/user-attachments/assets/9a614d45-eea9-4f27-bc25-fad5126815d7)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
